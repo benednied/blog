@@ -31,7 +31,7 @@ Before the internet became an industry, it was a strange new fabric for computin
 
 To cut back to the opener: near the end of *Margin Call*, the bank’s CEO, John Tuld, explains his actual skill is hearing where the music might go next—in a week, a month, or a year. Very few people seem to have an ear for where software engineering is going. Not the engineers, and not the executives who employ them.
 
-Some hackers had that gift, though. Bob Metcalfe helped invent Ethernet and then built 3Com. His compensation was spectacular, but it was the consequence rather than the qualification.
+Some hackers had that gift, though. Bob Metcalfe helped invent Ethernet and then built 3Com on the bet that the world would need it.
 
 If you are a Tuld, you will be fine in the age of agents. Anyone who can repeatedly anticipate the next movement has always been able to make money in nearly any field. AI changes the instrument or the genre, not that advantage.
 
