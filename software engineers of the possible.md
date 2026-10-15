@@ -27,7 +27,7 @@ This is why taste and hacker culture are the same thing. Taste is seeing what ou
 
 Hackers are the engineers of the possible: discovering tools, opening paths, challenging inherited limits, and turning imagination into material reality. Agents supply productive force, but cannot decide what deserves to exist.
 
-The internet should have taught us this. A network imagined to remain useful through catastrophe became the delivery system for social-media slop factories. Technological power does not choose its own ends.
+Before the internet became an industry, it was a strange new fabric for computing, one that curious people kept finding new uses for. Agents feel like such an opening now. It would be a strange kind of hacker who turned it down.
 
 To cut back to the opener: near the end of *Margin Call*, the bank’s CEO, John Tuld, explains that money is only made-up paper—pictures we exchange so that we do not have to kill one another for food. His actual skill is hearing where the music might go next—in a week, a month, or a year.
 
