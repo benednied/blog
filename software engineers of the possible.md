@@ -29,7 +29,7 @@ Hackers are the engineers of the possible: discovering tools, opening paths, cha
 
 Before the internet became an industry, it was a strange new fabric for computing, one that curious people kept finding new uses for. Agents feel like such an opening now. It would be a strange kind of hacker who turned it down.
 
-To cut back to the opener: near the end of *Margin Call*, the bank’s CEO, John Tuld, explains his actual skill is hearing where the music might go next—in a week, a month, or a year. Very few people seem to have an ear for where software engineering is going. Not the engineers, and not the executives who employ them.
+Back in *Margin Call*, the bank’s CEO, John Tuld, explains his actual skill is hearing where the music might go next—in a week, a month, or a year. Very few people seem to have an ear for where software engineering is going. Not the engineers, and not the executives who employ them.
 
 Some hackers had that gift, though. Bob Metcalfe helped invent Ethernet and then built 3Com on the bet that the world would need it.
 
