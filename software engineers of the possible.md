@@ -12,7 +12,7 @@ AI might be dissolving a similar bargain. Translating tickets into respectable c
 SWEs are right to fear the reaper.
 DHH proposes a new role for some: “professional makers of things.” But what things?
 
-This year, I think I might have become capable of software engineering proper, although I still cannot program. I consider myself acquainted with hacker culture, but until recently I could barely put a nail into a wall with regards to the actual coding, so to speak. 
+This year, I think I might have become capable of software engineering proper, although I still cannot program. I consider myself acquainted with hacker culture, but until recently, when it came to code, I could barely put a hammer to a nail.
 I could collect ideas from books; I could not turn them into repositories—nothing that worked, anyway.
 
 AI has become my prosthesis. I now make software that does what it says on the cover: readable, documented, and subjected to every quality gate I can find and think of—`uv`, `ruff`, `ty`, tests, formatters, and static analysis. I care more about the machine that builds the machine than its output. Being the ideas guy has always come naturally; now I get to amass substance, and I cannot truly believe it just yet.
